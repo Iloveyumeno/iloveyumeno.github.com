@@ -1,0 +1,49 @@
+h1 {
+color:#5eebbc;
+top:800;
+left:800;
+}
+
+body {
+background-color:black;
+}
+
+button {
+background-color:black;
+color:white;
+border-color:white
+}
+
+p {
+border-style: double;
+color:#FF69B4;
+border-color:#FF69B4;
+}
+
+h2 {
+color:white;
+}
+
+discord {
+border-style: double;
+border-color:#7289da;
+color:white;
+}
+
+youtube {
+border-style: dotted;
+border-color:#FF0000;
+color:white;
+}
+
+tiktok {
+border-style: double;
+border-color:#ff0050;
+color:#00f2ea;
+}
+
+steam {
+border-style: dotted;
+border-color: #2a475e;
+color:#66c0f4;
+}
